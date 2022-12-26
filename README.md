@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on something that will change the world
 - 📫 How to reach me:
    - Instagram: @artyomka_sw
-   - LinkedIn: Sorting it...
+   - LinkedIn: itsartyom
