@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @ItsArtyomka
-- 👀 I’m interested in Java Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on something that will change the world
-- 📫 How to reach me:
-   - Instagram: @artyomka_sw
-   - LinkedIn: itsartyom
