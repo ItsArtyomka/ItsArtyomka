@@ -15,7 +15,7 @@
 - Currently learning abstract classes and interfaces in Java
 
 <!--- Contacts Section --->
-## How to network with me...
+## Networking with me...
 
 <div id="header" align="Left">
    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="90"/>
