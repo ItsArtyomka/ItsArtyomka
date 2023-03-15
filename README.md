@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning aStatic Inner and Inner Classes in Java
+- Currently learning about Static Inner and Inner Classes in Java
 
 <!--- Contacts Section --->
 ## Network with me...
