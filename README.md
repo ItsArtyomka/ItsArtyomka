@@ -37,9 +37,6 @@
 <!--- Stats: Weekly streak and general stats --->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsartyomka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!--- My Top Languages --->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsartyomka&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <!--- Cool Gif at the end. --->
