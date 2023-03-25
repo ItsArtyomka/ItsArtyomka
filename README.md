@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning about Streaming I/O && Read-write to files
+- Currently learning about InputStream and FileInputStream
 
 <!--- Contacts Section --->
 ## Network with me...
