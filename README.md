@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning about InputStream and FileInputStream
+- Currently learning about Exceptions in Java
 
 <!--- Contacts Section --->
 ## Network with me...
