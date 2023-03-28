@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Interests-red" width="65"/>
 </div>
 
-- Java Programming.
+- Java Programming, Maths, and Physics(a bit).
 
 <!--- Currently Learning Section --->
 <div id="header" align="Left">
