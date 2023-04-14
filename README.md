@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning about Exceptions, Exception handling, and Exception types in Java
+- Currently learning about Multithreading and about class Thread in Java
 
 <!--- Contacts Section --->
 ## Network with me...
