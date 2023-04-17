@@ -1,4 +1,4 @@
-<h2> Hi, I’m Artyomka, a litle bit about me... </h2>
+<h2> Hi, I’m Artyomka! </h2>
 
 <!--- Interests Section --->
 <div id="header" align="Left">
