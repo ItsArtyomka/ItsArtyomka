@@ -41,10 +41,10 @@
 
 <!--- Cool Gif at the end. --->
 <div id="header" align="center">
-  <img src="https://media.tenor.com/UGVrV5hc6LwAAAAC/top-g-andrew-tate.gif" width="200"/>
+  <img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/>
 </div>
 
 ---
 
 <!--- Number of visits --->
-<img src="https://komarev.com/ghpvc/?username=itsartyomka&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=itsartyomka&style=flat-square&color=blue" alt="Woah"/>
