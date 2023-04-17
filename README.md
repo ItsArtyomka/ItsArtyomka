@@ -24,13 +24,6 @@
 
 [My LinkedIn](https://linkedin.com/in/itsartyom/)
 
-<!--- Instagram --->
-<div id="header" align="Left">
-   <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" width="95"/>
-</div>
-
-[My Instagram](https://www.instagram.com/@artyomka_sw/)
-
 ---
 
 ### :fire: My Stats:
