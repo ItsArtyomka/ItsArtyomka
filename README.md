@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning about Multithreading and about class Thread in Java
+- Currently learning about Thread synchronisation and Thread-safe collections
 
 <!--- Contacts Section --->
 ## Network with me...
