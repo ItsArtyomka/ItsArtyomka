@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Currently learning about Thread synchronisation and Thread-safe collections
+- Soon moving on to learning about lambda-functions, Stream API, and Date Time API in Java
 
 <!--- Contacts Section --->
 ## Network with me...
