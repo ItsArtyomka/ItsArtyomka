@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Soon moving on to learning about lambda-functions, Stream API, and Date Time API in Java
+- Learning about lambda-functions, Stream API, and Date Time API in Java
 
 <!--- Contacts Section --->
 ## Network with me...
