@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Learning about lambda-functions, Stream API, and Date Time API in Java
+- Learning about Java Memory Model and Garbage Collection in Java.
 
 <!--- Contacts Section --->
 ## Network with me...
