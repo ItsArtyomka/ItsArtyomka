@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Learning about Java Memory Model and Garbage Collection in Java.
+- Learning about DataBases and SQL Stuff.
 
 <!--- Contacts Section --->
 ## Network with me...
