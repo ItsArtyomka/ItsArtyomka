@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Learning about DataBases and SQL Stuff.
+- Learning about SQL and PostgreSQL via learning how to use DBeaver.
 
 <!--- Contacts Section --->
 ## Network with me...
