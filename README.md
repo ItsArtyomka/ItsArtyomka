@@ -31,13 +31,16 @@
 
 ---
 
-<!--- Cool Gif at the end. --->
-<div id="header" align="center">
-  <img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/>
+<div id="roadmap" align="centre">
+   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649fedb1d99c9d6731a4febd?variant=dark&roadmaps=java%2Ccomputer-science" alt="roadmap.sh"/></a>
 </div>
 
 ---
 
-<!--- Number of visits
-<img src="https://komarev.com/ghpvc/?username=itsartyomka&style=flat-square&color=blue" alt="Woah"/>
---->
+<!--- Cool Gif at the end. --->
+<div id="gif" align="center">
+  <img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/>
+  <p>Have fun reading code!</p>
+</div>
+
+---
