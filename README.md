@@ -12,7 +12,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
 </div>
 
-- Learning about SQL and PostgreSQL via learning how to use DBeaver.
+- Started learning Maven
 
 <!--- Contacts Section --->
 ## :globe_with_meridians: Network with me...
