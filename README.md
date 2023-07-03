@@ -18,12 +18,11 @@
 ## :globe_with_meridians: Network with me...
 
 <!--- LinkedIn --->
-<div id="header" align="Left">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="90"/>
-</div>
-
-[My LinkedIn](https://linkedin.com/in/itsartyom/)
-
+<a href="https://linkedin.com/in/itsartyom/">
+   <div id="header" align="Left">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="120"/>
+   </div>
+</a>
 
 ## :fire: My Stats:
 <!--- Stats: Weekly streak and general stats --->
