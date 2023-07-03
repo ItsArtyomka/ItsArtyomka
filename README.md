@@ -39,9 +39,10 @@
 ---
 
 <!--- Cool Gif at the end. --->
+
 <div id="gif" align="center">
-  <img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/>
-  <p><i>Have fun reading code!</i></p>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ/"><img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/></a>
+     <p><i>Have fun reading code!</i></p>
 </div>
 
 ---
