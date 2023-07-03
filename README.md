@@ -2,14 +2,17 @@
 
 <!--- Interests Section --->
 <div id="header" align="Left">
-   <img src="https://img.shields.io/badge/Interests-red" width="65"/>
+   <img src="https://img.shields.io/badge/Study Interests-008000 " width="115"/>
 </div>
 
-- Java Programming(Learning), Maths and Higher Maths(Studying), Physics(Studying), and Electronics(Want to learn).
+- Java Programming (Learning)
+- Maths and Higher Maths (Studying)
+- Physics (Studying)
+- Electronics (Want to learn).
 
 <!--- Currently Learning Section --->
 <div id="header" align="Left">
-   <img src="https://img.shields.io/badge/Currently Learning-orange" width="115"/>
+   <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
 - Started learning Maven
