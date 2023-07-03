@@ -31,8 +31,7 @@
 
 ## :computer: My Progress:
 <!--- Stats: Weekly streak and general stats --->
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649fedb1d99c9d6731a4febd?variant=dark&roadmaps=computer-science%2Cjava%2Cpostgresql-dba)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649fedb1d99c9d6731a4febd?variant=dark)](https://roadmap.sh)
 ---
 
 <!--- Cool Gif at the end. --->
