@@ -5,7 +5,7 @@
    <img src="https://img.shields.io/badge/Interests-red" width="65"/>
 </div>
 
-- Java Programming, Maths, and Physics.
+- Java Programming(Learning), Maths and Higher Maths(Studying), Physics(Studying), and Electronics(Want to learn).
 
 <!--- Currently Learning Section --->
 <div id="header" align="Left">
@@ -32,12 +32,14 @@
 ## :computer: My Progress:
 <!--- Stats: Weekly streak and general stats --->
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649fedb1d99c9d6731a4febd?variant=dark)](https://roadmap.sh)
+
+
 ---
 
 <!--- Cool Gif at the end. --->
 <div id="gif" align="center">
   <img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/>
-  <p>Have fun reading code!</p>
+  <p><i>Have fun reading code!</i></p>
 </div>
 
 ---
