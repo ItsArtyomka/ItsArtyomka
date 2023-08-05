@@ -33,8 +33,9 @@
 
 ## :computer: My Progress:
 <!--- Stats: Weekly streak and general stats --->
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649fedb1d99c9d6731a4febd?variant=dark)](https://roadmap.sh)
-
+<div id="progress" align="centre">
+   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649fedb1d99c9d6731a4febd?variant=dark&roadmaps=computer-science%2Cjava%2Cpostgresql-dba" alt="roadmap.sh"/></a>
+</div>
 
 ---
 
