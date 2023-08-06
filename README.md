@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
-- Learning about Maven, JDBC, and Spring
+- Learning about Maven, JDBC, and Spring Boot
 
 <!--- Contacts Section --->
 ## :globe_with_meridians: Network with me...
