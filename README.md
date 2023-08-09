@@ -8,7 +8,7 @@
 - Java Programming (Learning)
 - Maths and Higher Maths (Studying)
 - Physics (Studying)
-- Electronics (Want to learn).
+- Electronics and Software Engineering (Want to learn).
 
 <!--- Currently Learning Section --->
 <div id="header" align="Left">
