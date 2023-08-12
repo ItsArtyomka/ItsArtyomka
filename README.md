@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
-- Learning about Maven, JDBC, and Spring Boot
+- Started to learn about Backend Development and learning about Gradle, Logging Tools (JUL, Log4j, Logback, Slf4j, and Grep), SOLID, and Patterns
 
 <!--- Contacts Section --->
 ## :globe_with_meridians: Network with me...
