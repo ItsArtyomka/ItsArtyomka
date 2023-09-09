@@ -26,21 +26,20 @@
 
 <!--- CONTACTS --->
 ## :globe_with_meridians: Network with me...
-
-<!--- LinkedIn --->
-<a href="https://linkedin.com/in/itsartyom/" target="_blank">
-   <div id="network-linkedin" align="Left">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
-   </div>
-</a>
-
-<!--- LinkedIn --->
-<a href="https://www.instagram.com/ap.artyomka/" target="_blank">
-   <div id="network-linkedin" align="Left">
-      <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white" width="100"/>
-   </div>
-</a>
-
+<div id="contacts" align="left">
+   <!--- LinkedIn --->
+   <a href="https://linkedin.com/in/itsartyom/" target="_blank">
+      <div id="network-linkedin">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
+      </div>
+   </a>
+   <!--- LinkedIn --->
+   <a href="https://www.instagram.com/ap.artyomka/" target="_blank">
+      <div id="network-linkedin">
+         <img src="https://img.shields.io/badge/Instagram-orange?logo=instagram&logoColor=white" width="100"/>
+      </div>
+   </a>
+</div>
 <!-- //CONTACTS -->
 
 ## :fire: My Stats:
