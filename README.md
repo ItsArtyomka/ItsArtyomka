@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
-- Started to learn about Backend Development and learning about Gradle, Logging Tools (JUL, Log4j, Logback, Slf4j, and Grep), SOLID, and Patterns. (PAUSED - School Reason)
+- Started to learn about Logging Tools for Backend (JUL, Log4j, Logback, Slf4j, and Grep work with logs)
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
