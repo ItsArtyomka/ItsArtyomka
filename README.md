@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
-- Started to learn about Logging Tools for Backend (JUL, Log4j, Logback, Slf4j, and Grep work with logs)
+- Started to learn about Application Design Patterns (GRASP, GoF)
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
