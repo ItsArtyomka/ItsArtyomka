@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
 </div>
 
-- Started to learn about Application Design Patterns (GRASP, GoF)
+- Started to learn about Reflection API. Lombok. MapStruct.
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
