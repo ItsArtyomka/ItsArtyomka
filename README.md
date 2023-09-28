@@ -16,7 +16,7 @@
 </div>
 
 - Started to learn about Reflection API. Lombok. MapStruct.
-- Learning how to solve problems using Java on SPOJ, HackerRank,Exercism, and Project Euler.
+- Learning how to solve problems using Java on SPOJ, HackerRank, Exercism, and Project Euler.
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
