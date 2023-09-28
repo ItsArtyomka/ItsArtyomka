@@ -2,7 +2,7 @@
 
 <!--- Interests Section --->
 <div id="interests-section" align="Left">
-   <img src="https://img.shields.io/badge/Study Interests-008000 " width="115"/>
+   <img src="https://img.shields.io/badge/Study Interests-008000 " width="125"/>
 </div>
 
 - Java Programming (Learning)
@@ -12,7 +12,7 @@
 
 <!--- Currently Learning Section --->
 <div id="learning-section" align="Left">
-   <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="125"/>
+   <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="135"/>
 </div>
 
 - Started to learn about Reflection API. Lombok. MapStruct.
@@ -20,7 +20,7 @@
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
-   <img src="https://img.shields.io/badge/Projects-0000FF" width="70"/>
+   <img src="https://img.shields.io/badge/Projects-0000FF" width="75"/>
 </div>
 
 - Working on my own personalised personal website.
