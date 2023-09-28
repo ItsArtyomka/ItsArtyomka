@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/Projects-0000FF" width="75"/>
 </div>
 
-- Working on my own personalised personal website.
+- Working on my own personalised personal website. (PAUSED)
 
 <!--- CONTACTS --->
 ## :globe_with_meridians: Network with me...
