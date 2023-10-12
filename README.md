@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="135"/>
 </div>
 
-- Started to learn about Spring Framework.
+- Started to learn about Spring Framework, Swagger, etc.
 - Learning how to solve problems using Java on SPOJ, HackerRank, and Project Euler.
 
 <!--- Projects --->
