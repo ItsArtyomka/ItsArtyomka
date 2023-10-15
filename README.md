@@ -46,6 +46,7 @@
 ## :fire: My Stats:
 <!--- Stats: Weekly streak and general stats --->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsartyomka&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p><i>All of the Contribution are towards my own Repositories</i></p>
 
 ## :computer: My Progress:
 <!--- Stats: Weekly streak and general stats --->
@@ -57,7 +58,7 @@
 
 <div id="tate-gif" align="center">
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ/"><img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/></a>
-     <p><i>Have fun reading code!</i></p>
+     <p style="font-size=10px"><i>Have fun reading code!</i></p>
 </div>
 
 ---
