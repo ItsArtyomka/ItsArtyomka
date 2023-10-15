@@ -24,6 +24,7 @@
 </div>
 
 - Working on my own personalised personal website. (PAUSED)
+- Telegram Currency Bot (Course Related, Doing RN)
 
 <!--- CONTACTS --->
 ## :globe_with_meridians: Network with me...
