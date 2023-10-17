@@ -17,6 +17,7 @@
 </div>
 
 - Started to learn about Spring Framework, Swagger, Unit-testing, etc.
+- ORM && Spring JDBC Template
 - Learning how to solve problems using Java on SPOJ, HackerRank, and Project Euler.
 
 <!--- Projects --->
