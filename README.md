@@ -55,7 +55,7 @@
 
 ## :computer: My Developer Progress:
 <!--- Roadmap Stats --->
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649fedb1d99c9d6731a4febd?variant=dark&roadmaps=java%2Csql%2Ccomputer-science)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649fedb1d99c9d6731a4febd?variant=dark&roadmaps=computer-science%2Cjava%2Cpostgresql-dba)](https://roadmap.sh)
 
 ---
 
