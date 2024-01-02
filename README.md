@@ -16,8 +16,8 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="135"/>
 </div>
 
-- Started to learn about SpringBootTest, Integration Tests, and Mockito. + HTML.
-- Learning how to solve problems using Java on SPOJ, HackerRank, and Project Euler.
+- Started to learn about CI/CD, Docker, and DevOps
+- [Final Java Course Project - Internet Bank API](https://github.com/ItsArtyomka/CODE-PROJECT-Internet-Bank-API)
 
 <!--- Projects --->
 <div id="projects-section" align="Left">
