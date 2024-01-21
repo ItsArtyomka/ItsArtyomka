@@ -14,15 +14,16 @@
 
 <!--- CLS --->
 <div id="learning-section" align="Left">
-   <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="135"/>
+   <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="145"/>
 </div>
 
 - Started to learn about CI/CD, Docker, and DevOps
+- IB DP Programme @ Sixth Form
 <!--- //CLS --->
 
 <!--- PROJECTS --->
 <div id="projects-section" align="Left">
-   <img src="https://img.shields.io/badge/Projects-0000FF" width="75"/>
+   <img src="https://img.shields.io/badge/Latest Projects-0000FF" width="130"/>
 </div>
 
 - Working on my own personalised personal website. (PAUSED)
