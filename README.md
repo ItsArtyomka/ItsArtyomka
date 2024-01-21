@@ -6,9 +6,9 @@
    <img src="https://img.shields.io/badge/Study Interests-008000 " width="125"/>
 </div>
 
-- Java Programming (Learning)
-- Maths and Higher Maths (Studying)
-- Physics (Studying)
+- Development in Java (Learning @ Udemy, Skillfactory, etc)
+- Mathematics (Studying @ Sixth Form)
+- Physics (Studying @ Sixth Form)
 - Electronics and Software Engineering (Want to learn).
 <!--- //IS --->
 
