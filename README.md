@@ -27,6 +27,7 @@
 </div>
 
 - Working on my own personalised personal website. (PAUSED)
+- Started working on a Weather App Project!
 - [Telegram Currency Bot from My Java Course](https://github.com/ItsArtyomka/TelegramCurrencyBotProject)
 - [Final Java Course Project - Internet Bank API](https://github.com/ItsArtyomka/CODE-PROJECT-Internet-Bank-API)
 <!--- //PROJECTS --->
