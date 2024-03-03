@@ -17,7 +17,6 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="145"/>
 </div>
 
-- Started to learn about CI/CD, Docker, and DevOps
 - IB DP Programme @ Sixth Form
 <!--- //CLS --->
 
@@ -27,9 +26,9 @@
 </div>
 
 - Working on my own personalised personal website. (PAUSED)
-- Started working on a Weather App Project!
-- [Telegram Currency Bot from My Java Course](https://github.com/ItsArtyomka/TelegramCurrencyBotProject)
-- [Final Java Course Project - Internet Bank API](https://github.com/ItsArtyomka/CODE-PROJECT-Internet-Bank-API)
+- Started working on a Weather App Project! (PAUSED)
+- [Telegram Currency Bot from My Java Course](https://github.com/ItsArtyomka/TelegramCurrencyBotProject) (DONE)
+- [Final Java Course Project - Internet Bank API](https://github.com/ItsArtyomka/CODE-PROJECT-Internet-Bank-API) (DONE)
 <!--- //PROJECTS --->
 
 <!--- NETWORK --->
