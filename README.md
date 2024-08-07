@@ -33,7 +33,7 @@
 ## :globe_with_meridians: My Network...
 <p align="left">
    <a href="https://linkedin.com/in/itsartyom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsartyom" height="30" width="40" hspace="10"/></a>
-   <a href="https://instagram.com/ap.artyomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ap.artyomka" height="30" width="40" hspace="10"/></a>
+   <a href="https://instagram.com/ap.artyomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lil.artyomka" height="30" width="40" hspace="10"/></a>
    <a href="https://www.hackerrank.com/itsartyomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsartyomka" height="30" width="40" hspace="10"/></a>
    <a href="https://www.leetcode.com/itsartyomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsartyomka" height="30" width="40" hspace="10"/></a>
    <a href="https://www.codechef.com/users/its_artyomka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_artyomka" height="30" width="40" hspace="10"/></a>
