@@ -7,8 +7,6 @@
 </div>
 
 - Development in Java (Learning @ Udemy, Skillfactory, etc)
-- Mathematics (Studying @ Sixth Form)
-- Physics (Studying @ Sixth Form)
 - Electronics and Software Engineering (Want to learn).
 <!--- //IS --->
 
