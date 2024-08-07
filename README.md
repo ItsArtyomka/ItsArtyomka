@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Artyomka</h1>
 <h3 align="center">Aspiring Software Developer and a Student of Life</h3>
+<h3 align="center">Currently working part-time.</h3>
+
+---
 
 <!--- IS --->
 <div id="interests-section" align="Left">
