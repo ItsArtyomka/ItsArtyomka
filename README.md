@@ -33,7 +33,7 @@
 <!--- //PROJECTS --->
 
 <!--- NETWORK --->
-## :globe_with_meridians: My Network...
+## :globe_with_meridians: My Network
 <p align="left">
    <a href="https://linkedin.com/in/itsartyom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsartyom" height="30" width="40" hspace="10"/></a>
    <a href="https://instagram.com/lil.artyomka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lil.artyomka" height="30" width="40" hspace="10"/></a>
