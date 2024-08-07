@@ -66,7 +66,7 @@
 <!--- COOL GIF --->
 <div id="tate-gif" align="center">
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ/"><img src="https://media.tenor.com/uJy67OT5Qc4AAAAd/andrew-tate-tate.gif" width="250"/></a>
-     <p style="font-size=10px"><i>Have fun reading code!</i></p>
+     <p style="font-size=10px"><i>Enjoy your stay!</i></p>
 </div>
 <!--- //COOL GIF --->
 
