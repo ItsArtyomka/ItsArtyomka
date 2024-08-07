@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/Currently Learning-FF0000" width="145"/>
 </div>
 
-- IB DP Programme @ Sixth Form
+- Started to learn and get into Software Development
 <!--- //CLS --->
 
 <!--- PROJECTS --->
